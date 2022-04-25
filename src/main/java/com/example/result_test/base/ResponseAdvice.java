@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
+ * 拦截Controller方法的返回值，统一处理返回值/响应体
  * @author kss
  * @date 2022/04/25 11:58
  **/

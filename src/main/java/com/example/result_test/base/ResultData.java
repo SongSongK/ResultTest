@@ -3,6 +3,7 @@ package com.example.result_test.base;
 import lombok.Data;
 
 /**
+ * 统一返回格式类
  * @author kss
  * @date 2022/04/25 11:51
  **/

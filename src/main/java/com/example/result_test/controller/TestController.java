@@ -30,4 +30,9 @@ public class TestController {
     public void empty(){
         throw  new RuntimeException("参数不正确");
     }
+
+    @GetMapping("update")
+    public void update(){
+
+    }
 }
